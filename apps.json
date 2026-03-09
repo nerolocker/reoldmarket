@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Название приложения",
+    "description": "Тут должно быть полное описание того, что делает приложение.",
+    "apk_file": "https://github.com/nerolocker/reoldmarket/releases/download/v1/app.apk",
+    "icon": "https://raw.githubusercontent.com/nerolocker/reoldmarket/main/icons/app_icon.png",
+    "rating": 4.5,
+    "review_count": 120,
+    "version": "1.0.0",
+    "is_game": false
+  }
+]
